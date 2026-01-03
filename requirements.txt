@@ -10,3 +10,5 @@ pyautogui>=0.9.54
 winotify>=1.1.0
 pycaw>=20231023
 comtypes>=1.4.0
+customtkinter>=5.2.0
+Pillow>=10.0.0
