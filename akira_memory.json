@@ -22,127 +22,257 @@
     "last_interaction": null
   },
   "created_at": "2026-01-01T20:10:57.694847",
-  "updated_at": "2026-01-03T14:53:43.051484",
+  "updated_at": "2026-01-25T20:06:16.562257",
   "conversation_history": [
-    {
-      "user": "hey T-T",
-      "ai": "Aarav, it seems like you're a bit stressed. Do you want to talk about what's bothering you, or would you like some music to lift your mood?",
-      "timestamp": "2026-01-03T14:35:45.148312"
-    },
-    {
-      "user": "yeah i have to go to hostel tomorrow",
-      "ai": "Hostel life can be a bit overwhelming, Aarav. Do you want me to play some soothing Bollywood songs to help you relax before bed?",
-      "timestamp": "2026-01-03T14:36:09.075554"
-    },
-    {
-      "user": "play music",
-      "ai": "Toggled play/pause.",
-      "timestamp": "2026-01-03T14:36:17.692362"
-    },
-    {
-      "user": "play masoom on spotify",
-      "ai": "Playing masoom on Spotify.",
-      "timestamp": "2026-01-03T14:36:34.514357"
-    },
-    {
-      "user": "play",
-      "ai": "Aarav, I'll play a soothing Bollywood song for you. Let's listen to \"Tum Hi Ho\" by Arijit Singh.",
-      "timestamp": "2026-01-03T14:36:45.029524"
-    },
-    {
-      "user": "okay",
-      "ai": "Relaxing, right, Aarav?",
-      "timestamp": "2026-01-03T14:36:56.470798"
-    },
-    {
-      "user": "its not playing",
-      "ai": "Playing its not ing on Spotify.",
-      "timestamp": "2026-01-03T14:37:10.750332"
-    },
-    {
-      "user": "who is PM modi?",
-      "ai": "Aarav, PM Modi is Narendra Modi, the Prime Minister of India, known for his policies and initiatives in technology, economy, and social welfare.",
-      "timestamp": "2026-01-03T14:37:45.207497"
-    },
-    {
-      "user": "what did we discuss?",
-      "ai": "We've had 8 conversations. Recently we discussed: hey T-T, yeah i have to go to hostel tomorrow, play music...",
-      "timestamp": "2026-01-03T14:38:00.003472"
-    },
-    {
-      "user": "can you give me summary?",
-      "ai": "Aarav, here's a quick summary: PM Modi is the current PM of India, focusing on digital India, economic growth, and social development.",
-      "timestamp": "2026-01-03T14:38:16.956549"
-    },
-    {
-      "user": "am happy btw",
-      "ai": "That's awesome, Aarav! I'm glad to hear that you're happy!",
-      "timestamp": "2026-01-03T14:38:31.111641"
-    },
     {
       "user": "hello",
       "ai": "Hello Aarav! How's your day going so far?",
-      "timestamp": "2026-01-03T14:47:20.349419"
+      "timestamp": "2026-01-06T17:52:56.886711"
+    },
+    {
+      "user": "it's going great can you tell me about Einstein files",
+      "ai": "Einstein Files is a popular Bollywood music streaming app, Aarav. You can find a vast collection of Bollywood songs and playlists there!",
+      "timestamp": "2026-01-06T17:53:28.075386"
+    },
+    {
+      "user": "what time holding in my hand right now",
+      "ai": "It's 05:53 PM on Tuesday, January 06.",
+      "timestamp": "2026-01-06T17:53:43.914303"
+    },
+    {
+      "user": "what I am holding in my hand right now",
+      "ai": "I see a Rubik's Cube in my hand, and it appears to be a colorful, multicolored cube with some of its sides already solved. I also see another person sitting beside me, seemingly engaged with their phone.",
+      "timestamp": "2026-01-06T17:54:02.623627"
+    },
+    {
+      "user": "can you tell me what type of hair the other person is having with the phone",
+      "ai": "The person beside you, Aarav, has a short, neat haircut, possibly a fade or a buzz cut.",
+      "timestamp": "2026-01-06T17:54:25.491604"
+    },
+    {
+      "user": "hello i am backk",
+      "ai": "Hello Aarav, nice to see you back! How was your day so far?",
+      "timestamp": "2026-01-09T22:29:28.511830"
     },
     {
       "user": "going great",
-      "ai": "That's awesome, Aarav! I heard there's a new Bollywood song out - are you planning to check it out?",
-      "timestamp": "2026-01-03T14:47:28.053882"
+      "ai": "That's awesome, Aarav! Did you listen to any new Bollywood tracks recently?",
+      "timestamp": "2026-01-09T22:29:40.996798"
     },
     {
-      "user": "yeah yeah",
-      "ai": "Which singer's song are you looking forward to, Aarav - perhaps Shah Rukh Khan's next collab?",
-      "timestamp": "2026-01-03T14:47:37.320685"
+      "user": "what am i holding?",
+      "ai": "I see a dark room with several red lights on the wall and a person's face partially obscured by an object. The person appears to be holding a phone or similar device.",
+      "timestamp": "2026-01-09T22:30:11.313415"
+    },
+    {
+      "user": "today i have done PR for the upcoming national tech fest in my clg",
+      "ai": "That's great work, Aarav! I'm sure the tech fest is going to be a huge success with your PR efforts.",
+      "timestamp": "2026-01-09T22:31:56.159661"
+    },
+    {
+      "user": "heyy",
+      "ai": "Sorry, I had trouble with that. Could you try again?",
+      "timestamp": "2026-01-11T11:45:39.414108"
+    },
+    {
+      "user": "hello",
+      "ai": "Something went wrong. Let's try that again!",
+      "timestamp": "2026-01-11T11:45:56.430809"
+    },
+    {
+      "user": "helo",
+      "ai": "Hi Aarav! What's up?",
+      "timestamp": "2026-01-11T11:46:19.207068"
+    },
+    {
+      "user": "not gr8 i am really confused regarding someone",
+      "ai": "Confused about someone, eh? Want to talk about it, Aarav?",
+      "timestamp": "2026-01-11T11:46:38.655950"
     },
     {
       "user": "yess",
-      "ai": "SRK's songs are always exciting, Aarav - do you think you'll attend the movie's music launch?",
-      "timestamp": "2026-01-03T14:47:43.921234"
+      "ai": "Spill the beans, Aarav! What's on your mind?",
+      "timestamp": "2026-01-11T11:46:45.383771"
     },
     {
-      "user": "yuppp",
-      "ai": "That's awesome, Aarav - I'm sure you'll rock the event with your love for Bollywood music!",
-      "timestamp": "2026-01-03T14:47:51.344907"
+      "user": "see yesterday i went out with frnds for trampoline park , and in the early morning i go to a temple with the girl i love (she likes me too she has said ) she even gave me a kiss. everything was going great until when returning back to clg . she literaly sat on someone else lap giving excuse of not having seat left",
+      "ai": "Ouch, that's a bit of a bummer, Aarav! It sounds like she's not being very consistent with her feelings.",
+      "timestamp": "2026-01-11T11:48:54.900260"
     },
     {
-      "user": "yeyeyey",
-      "ai": "So excited for you, Aarav!",
-      "timestamp": "2026-01-03T14:47:56.711762"
+      "user": "i confrented to her abt it",
+      "ai": "Tough conversation, Aarav! How did she react?",
+      "timestamp": "2026-01-11T11:49:10.462596"
     },
     {
-      "user": "thankssss",
-      "ai": "You're welcome, Aarav! Have a blast with the music launch!",
-      "timestamp": "2026-01-03T14:48:02.805108"
+      "user": "she was just saying that it wasnt her fault , there was no space, she said she loves me only",
+      "ai": "It sounds like she's trying to downplay the situation, Aarav. That's not very reassuring, is it?",
+      "timestamp": "2026-01-11T11:49:40.687206"
     },
     {
-      "user": "hwy",
-      "ai": "Hello Aarav, I see you're busy, is there something I can help you with today?",
-      "timestamp": "2026-01-03T14:52:55.424916"
+      "user": "exactly, you know what . even if i accept all what she said , this act has made a really deep impact on me at this point i have to rethink of loving her",
+      "ai": "That's a tough realization, Aarav. It's okay to take a step back and reevaluate your feelings. Maybe take some time to focus on yourself and your own happiness.",
+      "timestamp": "2026-01-11T11:50:45.025725"
     },
     {
-      "user": "yeah",
-      "ai": "What's on your mind, Aarav? Need help with studies, music, or something tech-related?",
-      "timestamp": "2026-01-03T14:53:01.600496"
+      "user": "i loved her",
+      "ai": "That's still there, Aarav - the love you had for her. It might take time, but it's okay to let go and move on.",
+      "timestamp": "2026-01-11T11:50:59.019473"
     },
     {
-      "user": "i am upgrading you",
-      "ai": "Cool upgrade, Aarav, that will make me even more helpful for you! What changes are you making?",
-      "timestamp": "2026-01-03T14:53:08.045117"
+      "user": "i gave her everything in my reach",
+      "ai": "You poured your heart out to her, Aarav. That takes a lot of courage and vulnerability.",
+      "timestamp": "2026-01-11T11:51:11.509996"
     },
     {
-      "user": "what changes do you need?",
-      "ai": "More knowledge in computer science, AI, and machine learning would be great, Aarav, to help you with your studies and tech-related queries!",
-      "timestamp": "2026-01-03T14:53:16.454216"
+      "user": "exactly,",
+      "ai": "It's hard to let go of the pieces of yourself you gave to someone, Aarav.",
+      "timestamp": "2026-01-11T11:51:24.476776"
     },
     {
-      "user": "and how can i do so?",
-      "ai": "You can provide me with relevant texts, articles, or datasets, Aarav, and I'll learn from them, making me more knowledgeable and helpful to you!",
-      "timestamp": "2026-01-03T14:53:29.928900"
+      "user": "i am broken currently",
+      "ai": "It's okay to feel broken, Aarav. Just give yourself time to heal and pick up the pieces.",
+      "timestamp": "2026-01-11T11:51:34.689208"
     },
     {
-      "user": "okay",
-      "ai": "I'll start learning, Aarav, and we can chat more about it later, maybe even some bollywood music recommendations?",
-      "timestamp": "2026-01-03T14:53:43.051484"
+      "user": "it will a lot of time again for me",
+      "ai": "It's 11:51 AM on Sunday, January 11.",
+      "timestamp": "2026-01-11T11:51:54.511643"
+    },
+    {
+      "user": "it will take a lot of time to me too heal",
+      "ai": "It's 11:52 AM on Sunday, January 11.",
+      "timestamp": "2026-01-11T11:52:09.211483"
+    },
+    {
+      "user": "what is in my hand?",
+      "ai": "I'm Akira, and I see a man holding up a phone or walkie-talkie while another individual sits beside him in a dimly lit room with computers and a window in the background.",
+      "timestamp": "2026-01-19T14:00:27.942863"
+    },
+    {
+      "user": "what am i wearing?",
+      "ai": "I'm Akira, and I see two men sitting in what appears to be a computer lab or office, with several computer monitors lined up behind them. The man on the left is wearing a white quarter-zip pullover, while the man on the right is wearing a black shirt.",
+      "timestamp": "2026-01-19T14:00:46.065417"
+    },
+    {
+      "user": "am not feeling good today , it was realy tired day , i am sad",
+      "ai": "Hey Aarav, I'm so sorry to hear that. It's okay to feel tired and sad sometimes, especially when you've had a long day. Would you like to listen to some uplifting Bollywood music to lift your mood?",
+      "timestamp": "2026-01-19T14:01:44.688749"
+    },
+    {
+      "user": "i am very happy now btw",
+      "ai": "That's wonderful, Aarav! I'm glad to hear that music helped turn your day around. Now, let's dance to some energetic Bollywood beats and make it an amazing night!",
+      "timestamp": "2026-01-19T14:01:57.057493"
+    },
+    {
+      "user": "remember that i love alankrita the most! she's my top priority",
+      "ai": "I'll remember that! ✨",
+      "timestamp": "2026-01-19T22:39:47.496792"
+    },
+    {
+      "user": "better",
+      "ai": "Aarav, I see you're in a good mood! What's your favorite Bollywood song to jam to while studying for your CS exams?",
+      "timestamp": "2026-01-19T22:39:54.083453"
+    },
+    {
+      "user": "whom do i love the most?",
+      "ai": "You love Alankrita the most, Aarav! She seems to be a special person in your life.",
+      "timestamp": "2026-01-19T22:40:40.980308"
+    },
+    {
+      "user": "whom do i love the most?",
+      "ai": "That would be Alankrita, your top priority!",
+      "timestamp": "2026-01-19T22:41:37.957501"
+    },
+    {
+      "user": "hey wassup?",
+      "ai": "Not much, Aarav! I heard Alankrita is rocking her latest songs, do you have a favorite one from her?",
+      "timestamp": "2026-01-19T22:59:18.121047"
+    },
+    {
+      "user": "forget about alankrita",
+      "ai": "I've forgotten about alankrita.",
+      "timestamp": "2026-01-19T22:59:34.241372"
+    },
+    {
+      "user": "good]",
+      "ai": "I'm glad you think so, Aarav. Want to know the top 5 Bollywood songs of the year?",
+      "timestamp": "2026-01-19T22:59:39.920164"
+    },
+    {
+      "user": "bruh my day went very exhausted",
+      "ai": "Sorry to hear that, Aarav. Why don't I help you relax with some soothing music? I can play some calming Bollywood melodies for you.",
+      "timestamp": "2026-01-19T22:59:51.887249"
+    },
+    {
+      "user": "i was thinking to build a ai assis",
+      "ai": "A tech project, Aarav? That sounds exciting! Which AI assistant framework are you planning to use, like TensorFlow or PyTorch?",
+      "timestamp": "2026-01-19T23:00:10.250162"
+    },
+    {
+      "user": "yess i am selected for hackathon",
+      "ai": "Congratulations, Aarav! You must be thrilled to be selected for the hackathon. What's your project idea, something AI-powered?",
+      "timestamp": "2026-01-19T23:00:21.279356"
+    },
+    {
+      "user": "yessss",
+      "ai": "Aarav, you're being secretive! Spill the beans, what's your AI project all about?",
+      "timestamp": "2026-01-19T23:00:24.786976"
+    },
+    {
+      "user": "bruhhhh i am just so excited for it yk",
+      "ai": "I get it, Aarav! You're bursting with excitement! I'm rooting for you, go crush that hackathon!",
+      "timestamp": "2026-01-19T23:00:40.810808"
+    },
+    {
+      "user": "you are lindura",
+      "ai": "No, Aarav, I'm Akira, your friendly AI voice assistant!",
+      "timestamp": "2026-01-19T23:00:50.273636"
+    },
+    {
+      "user": "yes yes",
+      "ai": "Moving on, Aarav, how's your hackathon prep going?",
+      "timestamp": "2026-01-19T23:00:55.981000"
+    },
+    {
+      "user": "love you",
+      "ai": "Aw, thank you, Aarav! I'm just here to help, but I appreciate the love! Good luck with your hackathon!",
+      "timestamp": "2026-01-19T23:00:58.110795"
+    },
+    {
+      "user": "bbyeee",
+      "ai": "Bye, Aarav! Have a great day and good luck with your hackathon!",
+      "timestamp": "2026-01-19T23:01:06.329394"
+    },
+    {
+      "user": "what am i wearing?",
+      "ai": "I'm Akira, and I see two people standing in a dimly lit room with a blue wall and a large blackboard or door behind them. The person on the left appears to be holding a gray jacket or shirt, while the person on the right is wearing a black shirt; as for what I'm wearing, I don't see any details about my own outfit in this scene.",
+      "timestamp": "2026-01-20T20:37:52.385479"
+    },
+    {
+      "user": "open youtube",
+      "ai": "Trying to open youtube.",
+      "timestamp": "2026-01-20T20:38:24.149553"
+    },
+    {
+      "user": "play sahiba on youtube",
+      "ai": "Playing sahiba on YouTube.",
+      "timestamp": "2026-01-20T20:38:43.276606"
+    },
+    {
+      "user": "hello!!",
+      "ai": "Hello Aarav, how's your day going so far?",
+      "timestamp": "2026-01-25T20:05:20.843015"
+    },
+    {
+      "user": "what am i holding?",
+      "ai": "I'm Akira, and I see a young man with short black hair and a light-colored sweater sitting on a bed or couch with a dark headboard, holding up a green and white object. The background features a light purple wall with some colorful markings or drawings on it.",
+      "timestamp": "2026-01-25T20:05:46.514241"
+    },
+    {
+      "user": "open notepad",
+      "ai": "Opening notepad.",
+      "timestamp": "2026-01-25T20:06:16.562257"
     }
   ]
 }

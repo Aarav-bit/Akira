@@ -2,6 +2,10 @@
 .env
 .env.local
 
+# Data & Memory
+akira_memory.json
+*.json
+
 # Python
 __pycache__/
 *.py[cod]
