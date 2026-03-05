@@ -101,6 +101,6 @@ Check out the [FEATURE_ROADMAP.md](FEATURE_ROADMAP.md) for upcoming updates, inc
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by <b>[Your Name]</b> & <b>Antigravity</b></sub><br>
+  <sub>Designed with ❤️ by <b>[Aarav]</b> 
   <sub>"The future is voice. The future is AKIRA."</sub>
 </div>
